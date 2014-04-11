@@ -1,0 +1,4 @@
+module: puppetlabs/vcsrepo
+version: 0.2.0
+url: file:///var/lib/puppet/puppet-module/cache/http_forge_puppetlabs_com-75a31f1d6f1ef6eb63b4479b3512ee1508209a7f/puppetlabs-vcsrepo-0.2.0.tar.gz
+installed: Mon Mar 31 16:58:45 +0200 2014

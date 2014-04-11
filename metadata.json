@@ -1,0 +1,28 @@
+{
+  "checksums": {
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "15581c13cce7f52eebd5e575b9ce86d8",
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "151a294acd68d23389178960b009c2d7",
+    "tests/init.pp": "4888b0558b51dcf4528de73dd4735a5f",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "manifests/init.pp": "fc19a2050ff87fd5a4f57294566948ce"
+  },
+  "dependencies": [
+    {
+      "version_requirement": ">= 0.2.0",
+      "name": "puppetlabs/vcsrepo"
+    }
+  ],
+  "summary": "Deploys PSDash",
+  "source": "UNKNOWN",
+  "description": "PSDash is a Python-based Dashboard serving useful metrics and statistics",
+  "author": "layer7",
+  "types": [
+
+  ],
+  "license": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "version": "0.0.1",
+  "name": "layer7-psdash"
+}
